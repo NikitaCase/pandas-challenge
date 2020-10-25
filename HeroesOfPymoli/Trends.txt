@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Trends in the Analysis
 
 Players are predominantly male (84%)
@@ -5,3 +6,12 @@ Male and female players average purchase per person is about the same($4.07 vs $
 The game is most popular among 20-24 yr olds and they account for the highest total purchase value. 
 
 
+=======
+Trends in the Analysis
+
+Players are predominantly male (84%)
+Male and female players average purchase per person is about the same($4.07 vs $4.47)
+The game is most popular among 20-24 yr olds and they account for the highest total purchase value. 
+
+
+>>>>>>> b40b9252e901ddd12729e66e2466b1f26e7b8f78
